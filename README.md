@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Benjamin Chang 👋 </h1>
 
+## 👨🏻‍💻 About Me
+
+
 ## 📊 Statistics
 
 <p align="center">
@@ -17,8 +20,6 @@
 <p align="center">
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
-
 
 ## 🛠️ My Skills
 
@@ -77,7 +78,6 @@
 ### 👉 Frontend Development
 <p align="left">
   &emsp;
-  <!-- Frontend technologies -->
   <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;"> 
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   </a>   
@@ -94,7 +94,6 @@
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></img>
   </a>
   &emsp;
-  <!-- Add more frontend technologies as needed -->
 </p>
 
 
@@ -117,7 +116,6 @@
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></img>
   </a>
   &emsp;
-  <!-- Add more database & cloud hosting badges as needed -->
 </p>
 
 
@@ -144,8 +142,36 @@
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img>
   </a>
   &emsp;
-  <!-- Add more software and tool badges as needed -->
 </p>
+
+## 🗂️ Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Category</th>
+      <th>Note</th>
+    </tr>
+    <tr>
+      <td><a href="Link_to_Project_1">Project 1</a></td>
+      <td>Command Line</td>
+      <td>Part of XYZ class</td>
+    </tr>
+    <tr>
+      <td><a href="Link_to_Project_2">Project 2</a></td>
+      <td>Web</td>
+      <td>Developed for ABC purpose</td>
+    </tr>
+    <tr>
+      <td><a href="Link_to_Project_3">Project 3</a></td>
+      <td>Machine Learning</td>
+      <td>Research project</td>
+    </tr>
+    <!-- Add more rows as needed -->
+  </table>
+</p>
+
 
 
 ## 🙋🏻‍♂️ Let's Connect!
@@ -167,4 +193,8 @@
 	</a>
 	&emsp;
 </p>
+			
+------
+[Benjamin](https://github.com/benchang323)
+Last Edited on - 01/03/2024
 
