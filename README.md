@@ -1,5 +1,25 @@
 <h1 align="center">Hi, I'm Benjamin Chang 👋 </h1>
 
+## 📊 Statistics
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=benchang323&theme=dark" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchang323&layout=compact&theme=radical" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming Languages
@@ -127,8 +147,6 @@
   <!-- Add more software and tool badges as needed -->
 </p>
 
-
-</br>
 
 ## 🙋🏻‍♂️ Let's Connect!
 <p>	
