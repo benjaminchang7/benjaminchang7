@@ -4,6 +4,7 @@
 - 🎓 **Education**: B.S. Computer Science and B.S. Applied Mathematics & Statistics at The Johns Hopkins University.
 - 🤓 **Focus Areas**: Natural Language Processing, Software Engineering, and Statistics & Statistical Learning.
 - 👯 **Collaboration Interests**: Practical and innovative projects at the intersection of Data Science/Engineering, Applied ML/AI Research, and Backend Development.
+- 📂 **Projects**: 
 
 ## 🛠️ My Skills
 
