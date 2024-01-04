@@ -1,7 +1,137 @@
 <h1 align="center">Hi, I'm Benjamin Chang 👋 </h1>
 
+## 🛠️ My Skills
+
+### 👉 Programming Languages
+
+<p align="left">
+  &emsp;
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+  </a>
+  &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
+  </a>
+  &emsp;
+</p>
+
+### 👉 Backend Development
+<p align="left">
+  &emsp;
+  <a href="https://nodejs.org/en/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"></img>
+  </a>
+  &emsp;
+</p>
+
+
+### 👉 Frontend Development
+<p align="left">
+  &emsp;
+  <!-- Frontend technologies -->
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"> 
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+  </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></img>
+  </a>
+  &emsp;
+  <!-- Add more frontend technologies as needed -->
+</p>
+
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></img>
+  </a>
+  &emsp;
+  <a href="https://azure.microsoft.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></img>
+  </a>
+  &emsp;
+  <!-- Add more database & cloud hosting badges as needed -->
+</p>
+
+
+ ### 👉 Software & Tools
+<p align="left">
+  &emsp;
+  <a href="https://colab.research.google.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img>
+  </a>
+  &emsp;
+  <a href="https://stackoverflow.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img>
+  </a>
+  &emsp;
+  <!-- Add more software and tool badges as needed -->
+</p>
+
+
+</br>
+
 ## 🙋🏻‍♂️ Let's Connect!
-<p style="text-align: center;">	
+<p>	
 	<a target="_blank" href="https://www.linkedin.com/in/benjaminchang7/" style="text-decoration: none;">
 		<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
 	</a>
