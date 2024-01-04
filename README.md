@@ -1,25 +1,9 @@
-<h1 align="center">Hi, I'm Benjamin Chang 👋 </h1>
+<h1 align="center">Hello, I'm Benjamin Chang 👋 </h1>
 
 ## 👨🏻‍💻 About Me
-
-
-## 📊 Statistics
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=benchang323&theme=dark" alt="GitHub Streak" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchang323&layout=compact&theme=radical" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-</p>
-<p align="center">
-  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+- 🎓 **Education**: B.S. Computer Science and B.S. Applied Mathematics & Statistics at The Johns Hopkins University.
+- 🤓 **Focus Areas**: Natural Language Processing, Software Engineering, and Statistics & Statistical Learning.
+- 👯 **Collaboration Interests**: Practical and innovative projects at the intersection of Data Science/Engineering, Applied ML/AI Research, and Backend Development.
 
 ## 🛠️ My Skills
 
@@ -172,7 +156,23 @@
   </table>
 </p>
 
+## 📊 Statistics
 
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=benchang323&theme=dark" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benchang323&layout=compact&theme=radical" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 ## 🙋🏻‍♂️ Let's Connect!
 <p>	
