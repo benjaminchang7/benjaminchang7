@@ -27,6 +27,5 @@
 </p>
 			
 ------
-[Benjamin](https://github.com/benchang323)
-Last Edited on - 12/14/2024
+Last Edited: 12/14/2024
 
