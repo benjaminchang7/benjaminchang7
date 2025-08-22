@@ -1,11 +1,3 @@
-<h1 align="center">Hello, I'm Benjamin 👋 </h1>
-
-## 👨🏻‍💻 About Me
-- 🎓 **Education**: B.S. Computer Scienceat The Johns Hopkins University.
-- 🤓 **Focus Areas**: Natural Language Processing and Software Engineering.
-- 🔭 **Interests**: Building innovative and scalable distributed software solutions powered by AI/ML to tackle complex technical challenges.
-
-## 🙋🏻‍♂️ Let's Connect!
 <p>	
 	<a target="_blank" href="https://www.linkedin.com/in/benjaminchang7/" style="text-decoration: none;">
 		<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
@@ -26,5 +18,5 @@
 </p>
 			
 ------
-Last Edited: 04/10/2025
+Last Edited: 08/22/2025
 
